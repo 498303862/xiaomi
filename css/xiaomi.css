@@ -780,7 +780,6 @@ a{
 .yitu{
 	width: 155px;
 	height: 155px;
-	background: red;
 	display: block;
 	margin: 40px auto 24px;
 }
@@ -1176,7 +1175,6 @@ a{
 .znshang{
 	width: 234px;
 	height: 300px;
-	background: red;
 	display: block;
 	margin-bottom: 14px;
 	transition:all 0.4s
